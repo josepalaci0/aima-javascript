@@ -4,6 +4,7 @@
    Bootstrap JS, a common header menu, and a common footer.
    The individual pages don't need to load these.
    Gregorio editando... http://aima.cs.berkeley.edu/
+   libro en español https://luismejias21.files.wordpress.com/2017/09/inteligencia-artificial-un-enfoque-moderno-stuart-j-russell.pdf
 */
 
 (function() {
